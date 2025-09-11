@@ -8,6 +8,7 @@ classicsml : Classsic Supervised ML # Cost Function # Gradient Descent
   - SSD (sum of squared differences)
   - SAD (sum of absolute differences)
 - Optimized model using gradient descent
+  - OLS (ordinary least squares)   
 - Experiment with learning rates (how they affect training)
 
 ## Classical ML models with Supervised Learning
